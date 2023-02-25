@@ -3,17 +3,17 @@ import './style.css';
 const ListOfTasks = [
   {
     index: 0,
-    description: "Go to store",
+    description: 'Go to store',
     completed: true,
   },
   {
     index: 1,
-    description: "Clean the plates",
+    description: 'Clean the plates',
     completed: true,
   },
   {
     index: 2,
-    description: "Eat mangoes",
+    description: 'Eat mangoes',
     completed: true,
   },
 ];
