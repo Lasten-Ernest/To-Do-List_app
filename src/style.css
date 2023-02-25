@@ -19,7 +19,7 @@ body {
   background-color: #fff;
   margin: auto;
   padding: 0;
-  box-shadow: rgba(97, 95, 112, 0.5) 1px 5px, 24px;
+  box-shadow: rgba(97, 95, 112, 0.5) 1px 5px 24px;
   list-style: none;
 }
 
