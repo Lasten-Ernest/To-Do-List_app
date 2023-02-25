@@ -59,7 +59,7 @@ input:focus {
 .btn_clear span {
   display: flex;
   justify-content: center;
-  color : #b9b2b2;
+  color :#b9b2b2;
   padding: 8px 0;
   text-decoration: none;
 }
