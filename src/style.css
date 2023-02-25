@@ -10,11 +10,9 @@ body {
 
 .todoList_box {
   max-width: 50%;
-  margin-top: 100px;
   box-shadow: 3px 3px 3px 3px #876;
-  margin: 0 auto;
   border: 1px solid rgba(136, 124, 124, 0.2);
-  margin-top: 50px;
+  margin: 100px auto;
 }
 
 .todo_list {
@@ -44,7 +42,7 @@ body {
   font-style: italic;
   border: 0;
 }
- 
+
 input:focus {
   outline: none !important;
 }
@@ -55,7 +53,7 @@ input:focus {
 }
 
 .btn_clear {
-  color: hsl(0, 0%, 1%);;
+  color: hsl(0, 0%, 1%);
 }
 
 .btn_clear span {
@@ -87,11 +85,6 @@ input:focus {
   cursor: pointer;
   float: right;
   padding-right: 8px;
-}
-
-.fa-solid {
-  color: #000;
-  cursor: pointer;
 }
 
 input[type=checkbox] {
