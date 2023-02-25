@@ -35,8 +35,8 @@
 ### Key Features <a name="key-features"></a>
 
 - **[Added HtmlWebpackPlugin]**
-- **[Added HTML template]**
-- **[Set up TodoList application structure]**
+- **[created To-do-list App]**
+- **[Set up TodoList CRUD funnctionalities]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -112,7 +112,7 @@ N/A
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Create full website using webpack as template]**
+- [ ] **[Create full website with CRUD functionality using webpack as template]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
