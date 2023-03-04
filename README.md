@@ -36,7 +36,7 @@
 
 - **[Added HtmlWebpackPlugin]**
 - **[Added HTML template]**
-- **[Set up TodoList application structure]**
+- **[Set up add and remove features for TodoList application]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
