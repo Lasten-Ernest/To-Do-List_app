@@ -8,7 +8,7 @@ const displayTodo = () => {
   let li = '';
   if (todos) {
     todos.forEach((todo) => {
-      const flag = todo.completed ? 'checked' : '';
+      const flag = todo.completed ? 'checked':'';
       li += ` <li class="list-info">
           <div class="check">
             <label for="">
